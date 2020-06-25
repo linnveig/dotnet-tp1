@@ -1,0 +1,13 @@
+C:\Users\Tatiana\Desktop\Cosmetic_Store\Cosmetic_Store\bin\Debug\netcoreapp3.1\Cosmetic_Store.exe
+C:\Users\Tatiana\Desktop\Cosmetic_Store\Cosmetic_Store\bin\Debug\netcoreapp3.1\Cosmetic_Store.deps.json
+C:\Users\Tatiana\Desktop\Cosmetic_Store\Cosmetic_Store\bin\Debug\netcoreapp3.1\Cosmetic_Store.runtimeconfig.json
+C:\Users\Tatiana\Desktop\Cosmetic_Store\Cosmetic_Store\bin\Debug\netcoreapp3.1\Cosmetic_Store.runtimeconfig.dev.json
+C:\Users\Tatiana\Desktop\Cosmetic_Store\Cosmetic_Store\bin\Debug\netcoreapp3.1\Cosmetic_Store.dll
+C:\Users\Tatiana\Desktop\Cosmetic_Store\Cosmetic_Store\bin\Debug\netcoreapp3.1\Cosmetic_Store.pdb
+C:\Users\Tatiana\Desktop\Cosmetic_Store\Cosmetic_Store\obj\Debug\netcoreapp3.1\Cosmetic_Store.csprojAssemblyReference.cache
+C:\Users\Tatiana\Desktop\Cosmetic_Store\Cosmetic_Store\obj\Debug\netcoreapp3.1\Cosmetic_Store.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana\Desktop\Cosmetic_Store\Cosmetic_Store\obj\Debug\netcoreapp3.1\Cosmetic_Store.AssemblyInfoInputs.cache
+C:\Users\Tatiana\Desktop\Cosmetic_Store\Cosmetic_Store\obj\Debug\netcoreapp3.1\Cosmetic_Store.AssemblyInfo.cs
+C:\Users\Tatiana\Desktop\Cosmetic_Store\Cosmetic_Store\obj\Debug\netcoreapp3.1\Cosmetic_Store.dll
+C:\Users\Tatiana\Desktop\Cosmetic_Store\Cosmetic_Store\obj\Debug\netcoreapp3.1\Cosmetic_Store.pdb
+C:\Users\Tatiana\Desktop\Cosmetic_Store\Cosmetic_Store\obj\Debug\netcoreapp3.1\Cosmetic_Store.genruntimeconfig.cache
